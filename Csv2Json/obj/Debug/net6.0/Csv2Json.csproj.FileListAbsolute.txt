@@ -1,0 +1,15 @@
+C:\Users\Bravantic\Documents\Adamastor Chimalange\CSV2Json\Csv2Json\bin\Debug\net6.0\Csv2Json.exe
+C:\Users\Bravantic\Documents\Adamastor Chimalange\CSV2Json\Csv2Json\bin\Debug\net6.0\Csv2Json.deps.json
+C:\Users\Bravantic\Documents\Adamastor Chimalange\CSV2Json\Csv2Json\bin\Debug\net6.0\Csv2Json.runtimeconfig.json
+C:\Users\Bravantic\Documents\Adamastor Chimalange\CSV2Json\Csv2Json\bin\Debug\net6.0\Csv2Json.dll
+C:\Users\Bravantic\Documents\Adamastor Chimalange\CSV2Json\Csv2Json\bin\Debug\net6.0\Csv2Json.pdb
+C:\Users\Bravantic\Documents\Adamastor Chimalange\CSV2Json\Csv2Json\obj\Debug\net6.0\Csv2Json.csproj.AssemblyReference.cache
+C:\Users\Bravantic\Documents\Adamastor Chimalange\CSV2Json\Csv2Json\obj\Debug\net6.0\Csv2Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bravantic\Documents\Adamastor Chimalange\CSV2Json\Csv2Json\obj\Debug\net6.0\Csv2Json.AssemblyInfoInputs.cache
+C:\Users\Bravantic\Documents\Adamastor Chimalange\CSV2Json\Csv2Json\obj\Debug\net6.0\Csv2Json.AssemblyInfo.cs
+C:\Users\Bravantic\Documents\Adamastor Chimalange\CSV2Json\Csv2Json\obj\Debug\net6.0\Csv2Json.csproj.CoreCompileInputs.cache
+C:\Users\Bravantic\Documents\Adamastor Chimalange\CSV2Json\Csv2Json\obj\Debug\net6.0\Csv2Json.dll
+C:\Users\Bravantic\Documents\Adamastor Chimalange\CSV2Json\Csv2Json\obj\Debug\net6.0\refint\Csv2Json.dll
+C:\Users\Bravantic\Documents\Adamastor Chimalange\CSV2Json\Csv2Json\obj\Debug\net6.0\Csv2Json.pdb
+C:\Users\Bravantic\Documents\Adamastor Chimalange\CSV2Json\Csv2Json\obj\Debug\net6.0\Csv2Json.genruntimeconfig.cache
+C:\Users\Bravantic\Documents\Adamastor Chimalange\CSV2Json\Csv2Json\obj\Debug\net6.0\ref\Csv2Json.dll
